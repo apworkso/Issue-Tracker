@@ -3,8 +3,6 @@
 This is a list of all the mongo shell commands used in the book. It includes
 commands used to try out things or change things manually.
 
-## Chapter 6: MongoDB
-
 ### MongoDB Basics
 
 ```
@@ -105,7 +103,7 @@ db.employees.aggregate([
 ])
 ```
 
-## Chapter 13: Advanced Features
+
 
 ### MongoDB Aggregate
 ```
